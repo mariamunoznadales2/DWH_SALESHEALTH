@@ -1,0 +1,236 @@
+product_name,recommended_product_name,confidence,lift,support,baskets_together,recommendation_rank
+Kit de oxigenoterapia,Lámpara dermatológica UV,0.053455,1.392058,0.002050,41,1
+Lámpara dermatológica UV,Kit de oxigenoterapia,0.053385,1.392058,0.002050,41,1
+Lámpara infrarroja terapéutica,Kit de oxigenoterapia,0.053061,1.383604,0.001950,39,1
+Kit de oxigenoterapia,Lámpara infrarroja terapéutica,0.050847,1.383604,0.001950,39,2
+Lámpara dermatológica UV,Lámpara terapéutica SAD,0.055990,1.372294,0.002150,43,2
+Lámpara terapéutica SAD,Lámpara dermatológica UV,0.052696,1.372294,0.002150,43,1
+Lámpara dermatológica UV,Nebulizador ultrasónico,0.053385,1.368857,0.002050,41,3
+Nebulizador ultrasónico,Lámpara dermatológica UV,0.052564,1.368857,0.002050,41,1
+Kit de oxigenoterapia,Silla de ruedas plegable,0.054759,1.335581,0.002100,42,3
+Silla de ruedas plegable,Kit de oxigenoterapia,0.051220,1.335581,0.002100,42,1
+Lámpara infrarroja terapéutica,Nebulizador ultrasónico,0.051701,1.325658,0.001900,38,2
+Nebulizador ultrasónico,Lámpara infrarroja terapéutica,0.048718,1.325658,0.001900,38,2
+Sensor temperatura inteligente,Báscula inteligente,0.055954,1.322792,0.001950,39,1
+Báscula inteligente,Sensor temperatura inteligente,0.046099,1.322792,0.001950,39,1
+Nebulizador ultrasónico,Purificador HEPA Pro,0.057692,1.296456,0.002250,45,3
+Purificador HEPA Pro,Nebulizador ultrasónico,0.050562,1.296456,0.002250,45,1
+Lámpara infrarroja terapéutica,Lámpara dermatológica UV,0.048980,1.275510,0.001800,36,3
+Lámpara dermatológica UV,Lámpara infrarroja terapéutica,0.046875,1.275510,0.001800,36,4
+Sensor temperatura inteligente,Nebulizador ultrasónico,0.048780,1.250782,0.001700,34,2
+Nebulizador ultrasónico,Sensor temperatura inteligente,0.043590,1.250782,0.001700,34,4
+Nebulizador ultrasónico,Depurador de aire portátil,0.050000,1.246883,0.001950,39,5
+Depurador de aire portátil,Nebulizador ultrasónico,0.048628,1.246883,0.001950,39,1
+Lámpara infrarroja terapéutica,Bastón inteligente,0.053061,1.242652,0.001950,39,4
+Bastón inteligente,Lámpara infrarroja terapéutica,0.045667,1.242652,0.001950,39,1
+Nebulizador pediátrico,Tensiómetro profesional,0.053405,1.241966,0.002000,40,1
+Tensiómetro profesional,Nebulizador pediátrico,0.046512,1.241966,0.002000,40,1
+Tensiómetro digital,Monitor fetal portátil,0.048177,1.232150,0.001850,37,1
+Monitor fetal portátil,Tensiómetro digital,0.047315,1.232150,0.001850,37,1
+Sensor temperatura inteligente,Electroestimulador muscular,0.050215,1.227756,0.001750,35,3
+Electroestimulador muscular,Sensor temperatura inteligente,0.042787,1.227756,0.001750,35,1
+Purificador de aire,Silla de ruedas plegable,0.050251,1.225640,0.002000,40,1
+Silla de ruedas plegable,Purificador de aire,0.048780,1.225640,0.002000,40,2
+Monitor sueño portátil,Nebulizador ultrasónico,0.047676,1.222457,0.002000,40,1
+Lámpara dermatológica UV,Monitor respiratorio,0.052083,1.218324,0.002000,40,5
+Monitor respiratorio,Lámpara dermatológica UV,0.046784,1.218324,0.002000,40,1
+Lámpara infrarroja terapéutica,Cepillo dental sónico,0.047619,1.213224,0.001750,35,5
+Cepillo dental sónico,Lámpara infrarroja terapéutica,0.044586,1.213224,0.001750,35,1
+Cepillo dental sónico,Monitor de glucosa,0.052229,1.209012,0.002050,41,2
+Monitor de glucosa,Cepillo dental sónico,0.047454,1.209012,0.002050,41,1
+Análisis corporal avanzado,Lámpara infrarroja terapéutica,0.044418,1.208647,0.001850,37,1
+Lámpara de fototerapia,Andador ligero,0.050555,1.206560,0.002050,41,1
+Andador ligero,Lámpara de fototerapia,0.048926,1.206560,0.002050,41,1
+Kit de oxigenoterapia,Depurador de aire portátil,0.048240,1.202990,0.001850,37,4
+Depurador de aire portátil,Kit de oxigenoterapia,0.046135,1.202990,0.001850,37,2
+Kit de oxigenoterapia,Termómetro infrarrojo,0.053455,1.198543,0.002050,41,5
+Termómetro infrarrojo,Kit de oxigenoterapia,0.045964,1.198543,0.002050,41,1
+Sensor temperatura inteligente,Dispensador automático gel,0.054519,1.196913,0.001900,38,4
+Dispensador automático gel,Sensor temperatura inteligente,0.041712,1.196913,0.001900,38,1
+Nebulizador pediátrico,Detector apnea portátil,0.049399,1.196107,0.001850,37,2
+Detector apnea portátil,Nebulizador pediátrico,0.044794,1.196107,0.001850,37,1
+Cepillo dental sónico,Colchoneta vibratoria,0.049682,1.192834,0.001950,39,3
+Colchoneta vibratoria,Cepillo dental sónico,0.046819,1.192834,0.001950,39,1
+Nebulizador pediátrico,Lámpara de fototerapia,0.048064,1.185304,0.001800,36,3
+Lámpara de fototerapia,Nebulizador pediátrico,0.044390,1.185304,0.001800,36,2
+Nebulizador pediátrico,Kit de oxigenoterapia,0.045394,1.183673,0.001700,34,4
+Silla de ruedas plegable,Corrector dental eléctrico,0.054878,1.180173,0.002250,45,3
+Corrector dental eléctrico,Silla de ruedas plegable,0.048387,1.180173,0.002250,45,1
+Purificador de aire,Kit de oxigenoterapia,0.045226,1.179299,0.001800,36,2
+Nebulizador pediátrico,Electrocardiógrafo portátil,0.048064,1.176599,0.001800,36,5
+Electrocardiógrafo portátil,Nebulizador pediátrico,0.044064,1.176599,0.001800,36,1
+Colchoneta vibratoria,Monitor sueño portátil,0.049220,1.173294,0.002050,41,2
+Monitor sueño portátil,Colchoneta vibratoria,0.048868,1.173294,0.002050,41,2
+Dispensador automático gel,Lámpara dermatológica UV,0.045005,1.172018,0.002050,41,2
+Sensor temperatura inteligente,Lámpara infrarroja terapéutica,0.043042,1.171200,0.001500,30,5
+Masajeador de manos,Lámpara de fototerapia,0.047146,1.162673,0.001900,38,1
+Lámpara de fototerapia,Masajeador de manos,0.046856,1.162673,0.001900,38,3
+Masajeador de pies Shiatsu,Lámpara UV desinfectante,0.050867,1.154757,0.002200,44,1
+Lámpara UV desinfectante,Masajeador de pies Shiatsu,0.049943,1.154757,0.002200,44,1
+Colchón antiescaras,Nebulizador pediátrico,0.043174,1.152840,0.001850,37,1
+Silla de ruedas plegable,Sonda de electroestimulación,0.050000,1.152074,0.002050,41,4
+Sonda de electroestimulación,Silla de ruedas plegable,0.047235,1.152074,0.002050,41,1
+Masajeador de manos,Corrector dental eléctrico,0.053350,1.147309,0.002150,43,2
+Corrector dental eléctrico,Masajeador de manos,0.046237,1.147309,0.002150,43,2
+Masajeador de pies Shiatsu,Kit de oxigenoterapia,0.043931,1.145519,0.001900,38,2
+Tensiómetro de muñeca,Lámpara infrarroja terapéutica,0.041909,1.140386,0.001800,36,1
+Lámpara de fototerapia,Corrector dental eléctrico,0.053021,1.140236,0.002150,43,4
+Corrector dental eléctrico,Lámpara de fototerapia,0.046237,1.140236,0.002150,43,3
+Bastón inteligente,Terapia frío/calor,0.049180,1.138434,0.002100,42,2
+Terapia frío/calor,Bastón inteligente,0.048611,1.138434,0.002100,42,1
+Corrector postura electrónico,Lámpara dermatológica UV,0.043678,1.137452,0.001900,38,1
+Lámpara de fototerapia,Sonda de electroestimulación,0.049322,1.136448,0.002000,40,5
+Sonda de electroestimulación,Lámpara de fototerapia,0.046083,1.136448,0.002000,40,2
+Corrector lumbares calefactable,Nebulizador ultrasónico,0.044258,1.134830,0.001850,37,1
+Detector apnea portátil,Análisis corporal avanzado,0.047215,1.133625,0.001950,39,2
+Análisis corporal avanzado,Detector apnea portátil,0.046819,1.133625,0.001950,39,2
+Cepillo dental sónico,Sensor temperatura inteligente,0.039490,1.133155,0.001550,31,4
+Electroestimulador muscular,Báscula inteligente,0.047677,1.127122,0.001950,39,2
+Báscula inteligente,Electroestimulador muscular,0.046099,1.127122,0.001950,39,2
+Bastón inteligente,Nebulizador pediátrico,0.042155,1.125623,0.001800,36,3
+Masajeador cervical,Báscula profesional médica,0.050808,1.125323,0.002200,44,1
+Báscula profesional médica,Masajeador cervical,0.048726,1.125323,0.002200,44,1
+Cepillo dental sónico,Electroestimulador muscular,0.045860,1.121268,0.001800,36,5
+Electroestimulador muscular,Cepillo dental sónico,0.044010,1.121268,0.001800,36,3
+Tensiómetro profesional,Termómetro infrarrojo,0.050000,1.121076,0.002150,43,2
+Termómetro infrarrojo,Tensiómetro profesional,0.048206,1.121076,0.002150,43,2
+Tensiómetro de muñeca,Nebulizador pediátrico,0.041909,1.119071,0.001800,36,2
+Monitor sueño portátil,Kit de oxigenoterapia,0.042908,1.118859,0.001800,36,3
+Oxímetro de pulso,Nebulizador ultrasónico,0.043632,1.118771,0.001850,37,1
+Tensiómetro digital,Muletas ergonómicas,0.049479,1.118173,0.001900,38,2
+Muletas ergonómicas,Tensiómetro digital,0.042938,1.118173,0.001900,38,1
+Corrector lumbares calefactable,Nebulizador pediátrico,0.041866,1.117918,0.001750,35,2
+Detector apnea portátil,Nebulizador ultrasónico,0.043584,1.117527,0.001800,36,3
+Análisis corporal avanzado,Báscula profesional médica,0.050420,1.116726,0.002100,42,3
+Báscula profesional médica,Análisis corporal avanzado,0.046512,1.116726,0.002100,42,2
+Monitor fetal portátil,Depurador de aire portátil,0.044757,1.116135,0.001750,35,2
+Depurador de aire portátil,Monitor fetal portátil,0.043641,1.116135,0.001750,35,3
+Scanner venoso portátil,Sensor temperatura inteligente,0.038835,1.114346,0.001600,32,1
+Báscula inteligente,Corrector postura electrónico,0.048463,1.114100,0.002050,41,3
+Corrector postura electrónico,Báscula inteligente,0.047126,1.114100,0.002050,41,2
+Masajeador cervical,Kit de oxigenoterapia,0.042725,1.114085,0.001850,37,2
+Masajeador cervical,Termómetro infrarrojo,0.049654,1.113309,0.002150,43,3
+Termómetro infrarrojo,Masajeador cervical,0.048206,1.113309,0.002150,43,3
+Corrector lumbares calefactable,Monitor sueño portátil,0.046651,1.112055,0.001950,39,3
+Monitor sueño portátil,Corrector lumbares calefactable,0.046484,1.112055,0.001950,39,4
+Silla de ruedas plegable,Corrector lumbares calefactable,0.046341,1.108647,0.001900,38,5
+Corrector lumbares calefactable,Silla de ruedas plegable,0.045455,1.108647,0.001900,38,4
+Masajeador de manos,Colchoneta vibratoria,0.045906,1.102178,0.001850,37,3
+Colchoneta vibratoria,Masajeador de manos,0.044418,1.102178,0.001850,37,3
+Báscula profesional médica,Kit de oxigenoterapia,0.042082,1.097313,0.001900,38,3
+Masajeador cervical,Muletas ergonómicas,0.048499,1.096019,0.002100,42,4
+Muletas ergonómicas,Masajeador cervical,0.047458,1.096019,0.002100,42,2
+Depurador de aire portátil,Silla de ruedas plegable,0.044888,1.094824,0.001800,36,4
+Purificador de aire,Lámpara infrarroja terapéutica,0.040201,1.093905,0.001600,32,3
+Corrector lumbares calefactable,Kit de oxigenoterapia,0.041866,1.091683,0.001750,35,5
+Monitor fetal portátil,Silla de ruedas plegable,0.044757,1.091635,0.001750,35,3
+Monitor respiratorio,Corrector lumbares calefactable,0.045614,1.091245,0.001950,39,2
+Oxímetro de pulso,Lámpara infrarroja terapéutica,0.040094,1.091002,0.001700,34,2
+Monitor fetal portátil,Terapia TENS portátil,0.048593,1.089537,0.001900,38,4
+Terapia TENS portátil,Monitor fetal portátil,0.042601,1.089537,0.001900,38,1
+Monitor sueño portátil,Bastón inteligente,0.046484,1.088616,0.001950,39,5
+Bastón inteligente,Monitor sueño portátil,0.045667,1.088616,0.001950,39,4
+Depurador de aire portátil,Detector apnea portátil,0.044888,1.086871,0.001800,36,5
+Detector apnea portátil,Depurador de aire portátil,0.043584,1.086871,0.001800,36,4
+Monitor de glucosa,Lámpara dermatológica UV,0.041667,1.085069,0.001800,36,2
+Monitor respiratorio,Camilla plegable portátil,0.047953,1.084914,0.002050,41,3
+Camilla plegable portátil,Monitor respiratorio,0.046380,1.084914,0.002050,41,1
+Lámpara terapéutica SAD,Tensiómetro de muñeca,0.046569,1.084252,0.001900,38,2
+Tensiómetro de muñeca,Lámpara terapéutica SAD,0.044237,1.084252,0.001900,38,3
+Colchoneta vibratoria,Monitor de glucosa,0.046819,1.083767,0.001950,39,4
+Monitor de glucosa,Colchoneta vibratoria,0.045139,1.083767,0.001950,39,3
+Purificador de aire,Corrector lumbares calefactable,0.045226,1.081965,0.001800,36,4
+Sonda de electroestimulación,Kit de oxigenoterapia,0.041475,1.081477,0.001800,36,3
+Colchón antiescaras,Lámpara infrarroja terapéutica,0.039673,1.079545,0.001700,34,2
+Colchón antiescaras,Masajeador de pies Shiatsu,0.046674,1.079178,0.002000,40,3
+Masajeador de pies Shiatsu,Colchón antiescaras,0.046243,1.079178,0.002000,40,3
+Báscula inteligente,Kit de oxigenoterapia,0.041371,1.078779,0.001750,35,4
+Lámpara terapéutica SAD,Monitor de glucosa,0.046569,1.077977,0.001900,38,3
+Monitor de glucosa,Lámpara terapéutica SAD,0.043981,1.077977,0.001900,38,4
+Purificador HEPA Pro,Corrector lumbares calefactable,0.044944,1.075211,0.002000,40,2
+Masajeador de manos,Bastón inteligente,0.045906,1.075075,0.001850,37,4
+Bastón inteligente,Masajeador de manos,0.043326,1.075075,0.001850,37,5
+Báscula inteligente,Corrector lumbares calefactable,0.044917,1.074576,0.001900,38,5
+Masajeador de pies Shiatsu,Monitor ECG portátil,0.047399,1.072372,0.002050,41,4
+Monitor ECG portátil,Masajeador de pies Shiatsu,0.046380,1.072372,0.002050,41,1
+Monitor de glucosa,Lámpara infrarroja terapéutica,0.039352,1.070799,0.001700,34,5
+Muletas ergonómicas,Sensor temperatura inteligente,0.037288,1.069961,0.001650,33,3
+Andador ligero,Corrector postura electrónico,0.046539,1.069871,0.001950,39,2
+Corrector postura electrónico,Andador ligero,0.044828,1.069871,0.001950,39,3
+Masajeador de pies Shiatsu,Lámpara infrarroja terapéutica,0.039306,1.069561,0.001700,34,5
+Lámpara terapéutica SAD,Nebulizador ultrasónico,0.041667,1.068376,0.001700,34,4
+Electrocardiógrafo portátil,Colchón ortopédico premium,0.045288,1.068105,0.001850,37,2
+Colchón ortopédico premium,Electrocardiógrafo portátil,0.043632,1.068105,0.001850,37,1
+Oxímetro de pulso,Muletas ergonómicas,0.047170,1.065984,0.002000,40,3
+Muletas ergonómicas,Oxímetro de pulso,0.045198,1.065984,0.002000,40,4
+Análisis corporal avanzado,Lámpara de fototerapia,0.043217,1.065778,0.001800,36,4
+Scanner venoso portátil,Silla de ruedas plegable,0.043689,1.065593,0.001800,36,2
+Masajeador cervical,Purificador HEPA Pro,0.047344,1.063913,0.002050,41,5
+Purificador HEPA Pro,Masajeador cervical,0.046067,1.063913,0.002050,41,3
+Tensiómetro digital,Colchón antiescaras,0.045573,1.063545,0.001750,35,3
+Colchón antiescaras,Tensiómetro digital,0.040840,1.063545,0.001750,35,4
+Purificador de aire,Nebulizador ultrasónico,0.041457,1.063007,0.001650,33,5
+Colchoneta vibratoria,Lámpara dermatológica UV,0.040816,1.062925,0.001700,34,5
+Terapia TENS portátil,Sensor temperatura inteligente,0.036996,1.061564,0.001650,33,2
+Corrector postura electrónico,Nebulizador ultrasónico,0.041379,1.061008,0.001800,36,4
+Masajeador de manos,Nebulizador pediátrico,0.039702,1.060140,0.001600,32,5
+Colchón antiescaras,Lámpara UV desinfectante,0.046674,1.059579,0.002000,40,5
+Lámpara UV desinfectante,Colchón antiescaras,0.045403,1.059579,0.002000,40,2
+Corrector postura electrónico,Purificador HEPA Pro,0.047126,1.059021,0.002050,41,5
+Purificador HEPA Pro,Corrector postura electrónico,0.046067,1.059021,0.002050,41,4
+Tiras reactivas glucosa (pack),Bastón inteligente,0.045198,1.058495,0.002000,40,1
+Monitor fetal portátil,Báscula inteligente,0.044757,1.058086,0.001750,35,5
+Andador ligero,Kit de oxigenoterapia,0.040573,1.057961,0.001700,34,3
+Silla ortopédica ajustable,Corrector postura electrónico,0.046020,1.057929,0.001850,37,1
+Detector apnea portátil,Oxímetro de pulso,0.044794,1.056467,0.001850,37,5
+Oxímetro de pulso,Detector apnea portátil,0.043632,1.056467,0.001850,37,4
+Muletas ergonómicas,Nebulizador pediátrico,0.039548,1.056022,0.001750,35,5
+Lámpara UV desinfectante,Monitor ECG portátil,0.046538,1.052896,0.002050,41,3
+Monitor ECG portátil,Lámpara UV desinfectante,0.046380,1.052896,0.002050,41,2
+Análisis corporal avanzado,Sonda de electroestimulación,0.045618,1.051112,0.001900,38,5
+Sonda de electroestimulación,Análisis corporal avanzado,0.043779,1.051112,0.001900,38,4
+Silla ortopédica ajustable,Bastón inteligente,0.044776,1.048621,0.001800,36,2
+Lámpara UV desinfectante,Báscula inteligente,0.044268,1.046522,0.001950,39,4
+Tiras reactivas glucosa (pack),Lámpara infrarroja terapéutica,0.038418,1.045390,0.001700,34,2
+Electrocardiógrafo portátil,Purificador HEPA Pro,0.046512,1.045205,0.001900,38,3
+Purificador HEPA Pro,Electrocardiógrafo portátil,0.042697,1.045205,0.001900,38,5
+Electroestimulador muscular,Nebulizador pediátrico,0.039120,1.044588,0.001600,32,4
+Andador ligero,Báscula inteligente,0.044153,1.043800,0.001850,37,4
+Silla ortopédica ajustable,Lámpara de fototerapia,0.042289,1.042874,0.001700,34,3
+Electrocardiógrafo portátil,Corrector postura electrónico,0.045288,1.041095,0.001850,37,4
+Tensiómetro profesional,Monitor fetal portátil,0.040698,1.040861,0.001750,35,3
+Dispensador automático gel,Masajeador cervical,0.045005,1.039388,0.002050,41,3
+Colchón ortopédico premium,Nebulizador pediátrico,0.038915,1.039121,0.001650,33,2
+Tiras reactivas glucosa (pack),Termómetro infrarrojo,0.046328,1.038737,0.002050,41,3
+Termómetro infrarrojo,Tiras reactivas glucosa (pack),0.045964,1.038737,0.002050,41,4
+Scanner venoso portátil,Nebulizador pediátrico,0.038835,1.036981,0.001600,32,3
+Tensiómetro profesional,Cepillo dental sónico,0.040698,1.036883,0.001750,35,4
+Dispensador automático gel,Purificador HEPA Pro,0.046103,1.036027,0.002100,42,4
+Silla ortopédica ajustable,Electrocardiógrafo portátil,0.042289,1.035216,0.001700,34,4
+Electrocardiógrafo portátil,Silla ortopédica ajustable,0.041616,1.035216,0.001700,34,5
+Sonda de electroestimulación,Báscula inteligente,0.043779,1.034960,0.001900,38,5
+Corrector dental eléctrico,Análisis corporal avanzado,0.043011,1.032671,0.002000,40,4
+Andador ligero,Análisis corporal avanzado,0.042959,1.031439,0.001800,36,5
+Lámpara UV desinfectante,Nebulizador pediátrico,0.038593,1.030508,0.001700,34,5
+Tensiómetro profesional,Báscula profesional médica,0.046512,1.030158,0.002000,40,5
+Báscula profesional médica,Tensiómetro profesional,0.044297,1.030158,0.002000,40,4
+Terapia frío/calor,Sensor temperatura inteligente,0.035880,1.029545,0.001550,31,2
+Dispensador automático gel,Lámpara de fototerapia,0.041712,1.028666,0.001900,38,5
+Colchón ortopédico premium,Nebulizador ultrasónico,0.040094,1.028060,0.001700,34,3
+Tensiómetro digital,Corrector lumbares calefactable,0.042969,1.027961,0.001650,33,4
+Electroestimulador muscular,Lámpara UV desinfectante,0.045232,1.026839,0.001850,37,5
+Báscula profesional médica,Muletas ergonómicas,0.045404,1.026084,0.002050,41,5
+Terapia TENS portátil,Kit de oxigenoterapia,0.039238,1.023146,0.001750,35,3
+Termómetro infrarrojo,Lámpara dermatológica UV,0.039238,1.021814,0.001750,35,5
+Camilla plegable portátil,Monitor de glucosa,0.044118,1.021242,0.001950,39,2
+Monitor respiratorio,Lámpara infrarroja terapéutica,0.037427,1.018419,0.001600,32,4
+Silla ortopédica ajustable,Lámpara UV desinfectante,0.044776,1.016484,0.001800,36,5
+Monitor ECG portátil,Báscula inteligente,0.042986,1.016228,0.001900,38,3
+Oxímetro de pulso,Corrector dental eléctrico,0.047170,1.014405,0.002000,40,5
+Corrector dental eléctrico,Oxímetro de pulso,0.043011,1.014405,0.002000,40,5
+Lámpara terapéutica SAD,Oxímetro de pulso,0.042892,1.011607,0.001750,35,5
+Terapia TENS portátil,Báscula inteligente,0.042601,1.007113,0.001900,38,4
+Terapia TENS portátil,Lámpara infrarroja terapéutica,0.036996,1.006681,0.001650,33,5
+Scanner venoso portátil,Sonda de electroestimulación,0.043689,1.006666,0.001800,36,4
+Colchón ortopédico premium,Oxímetro de pulso,0.042453,1.001246,0.001800,36,4
+Monitor respiratorio,Electroestimulador muscular,0.040936,1.000872,0.001750,35,5
