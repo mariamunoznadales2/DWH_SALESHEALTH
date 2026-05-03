@@ -2,7 +2,7 @@
 
 Proyecto Final - Gestión de Datos - Data Warehouse, Customer 360, CLTV/RFM, churn, clustering, Market Basket y dashboard Streamlit.
 
-Dashboard interactivo: [https://dwhsaleshealth-kytcsnxwhx3vl42ti7353a.streamlit.app/]
+Dashboard interactivo: https://dwhsaleshealth-kytcsnxwhx3vl42ti7353a.streamlit.app/
 
 Este proyecto transforma la base operacional `saleshealth` en una plataforma analítica completa para estudiar clientes, ventas, margen, devoluciones, inventario y afinidad entre productos. La solución final incluye exploración del origen, Data Warehouse dimensional, ETL reproducible en SQL, control de calidad de datos, métricas de cliente, scoring de churn, clustering K-Means, Market Basket Analysis, mart `customer_360`, notebooks por fases, memoria final y dashboard ejecutivo.
 
