@@ -358,9 +358,7 @@ Resultado esperado:
 ```text
 .
 ├── README.md
-├── MEMORIA.tex
-├── MEMORIA.pdf
-├── GD_ProyectoFinal.pdf
+├── MEMORIA_FINAL.pdf
 ├── saleshealthBackupGD.sql
 ├── requirements.txt
 ├── app.py
@@ -452,7 +450,7 @@ limit 10;
 
 | Entregable | Archivo |
 |---|---|
-| Memoria final | `MEMORIA.pdf` |
+| Memoria final | `MEMORIA_FINAL.pdf` |
 | Dashboard | `app.py` |
 | Pipeline SQL/Python | `scripts/run_pipeline.sh` + carpeta `sql/` |
 | Notebooks de analisis | carpeta `notebooks/` |
